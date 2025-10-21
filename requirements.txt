@@ -1,0 +1,4 @@
+1. required packages: pygame
+2. Install the required package by running the following command in the terminal.
+    pip install pygame
+3. make sure "assets" folder is in the same directory as "chess.py".
